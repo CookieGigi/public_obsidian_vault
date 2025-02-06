@@ -1,9 +1,8 @@
 ---
-title: Article
+title: Introduction
 description: Article Template
-draft: true
-tags:
-  - tag
+draft: false
+tags: []
 date: 2025-02-06 17:48
 ---
 ## Purpose
@@ -19,7 +18,7 @@ In these articles, we will focus on the last one [Tailscale](https://tailscale.c
 
 ## Tailscale
 
-[[Tailscale ]] work with a [client](https://github.com/tailscale/tailscale) (open source) you install on the device you want to connect to your Tailnet (Tailscale network) and a [server](https://tailscale.com/) (proprietary) hosted by Tailscale. The client create a tunnel to the server so you don't need to open any port on your firewall. 
+[Tailscale](https://tailscale.com/) work with a [client](https://github.com/tailscale/tailscale) (open source) you install on the device you want to connect to your Tailnet (Tailscale network) and a [server](https://tailscale.com/) (proprietary) hosted by Tailscale. The client create a tunnel to the server so you don't need to open any port on your firewall. 
 They propose a free tier offer for personal use who propose to connect maximum 100 devices which is pretty decent, but only 3 users can connect on your network. So, in case you want to give access at your network to family and friends or using it in a professional, the free tier will not be enough.
 
 Fortunately, thanks to the open source community, there is an alternative to this proprietary server who use the same client : [Headscale](https://headscale.net/stable/).
@@ -36,7 +35,8 @@ There is an alternative to this. It's to host [Headscale](https://headscale.net/
 These articles are inspired by the two guides :
 - [How To VPN Without Port Forwarding Using Headscale & Tailscale - Complete Tutorial](https://www.youtube.com/watch?v=u_6Zd7Bo6J4)
 - [How to combine Headscale with Nginx Proxy Manager and Cloudflare to form a self-hosted VPN on Ubuntu 22.04](https://silicon.blog/2023/05/14/how-to-combine-headscale-with-nginx-proxy-manager-and-cloudflare-to-from-a-self-hosted-vpn-on-ubuntu-22-04/)
-These two guide lack of some steps so I decided to write my own guide
+
+These two guides lack of some steps so I decided to write my own guide
 
 
 
