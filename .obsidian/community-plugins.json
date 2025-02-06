@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "homepage",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-languagetool-plugin"
 ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Setup headscale on free-tier VPS/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Introduction"
             }
           }
         ]
@@ -181,11 +181,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Setup headscale on free-tier VPS/Tailscale.md",
+    "Setup headscale on free-tier VPS/Introduction.md",
+    "Templates/Article.md",
+    "Templates/Untitled.md",
     "index.md",
+    "Setup headscale on free-tier VPS",
     "Test/Untitled.md",
     "Test",
     "Untitled.md",
-    "Templates/Article.md",
     "Private/Untitled.md",
     "Templates",
     "Private",
@@ -198,7 +202,6 @@
     "quartz/node_modules/@citation-js/plugin-bibjson/lib/index.js",
     "quartz/node_modules/@citation-js/plugin-bibjson/lib",
     "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/json.js",
-    "quartz/node_modules/@citation-js/plugin-bibjson/lib-mjs/index.js",
     "quartz/node_modules/@myriaddreamin/typst-ts-node-compiler/README.md",
     "quartz/node_modules/@citation-js/name/README.md",
     "quartz/node_modules/@citation-js/name/CHANGELOG.md",
@@ -214,8 +217,6 @@
     "quartz/node_modules/fetch-ponyfill/node_modules/webidl-conversions/README.md",
     "quartz/node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
     "quartz/node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
-    "quartz/node_modules/fetch-ponyfill/node_modules/whatwg-url/README.md",
-    "quartz/node_modules/gray-matter/node_modules/argparse/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/psl/browserstack-logo.svg",
     "quartz/quartz/static/og-image.png",
