@@ -1,13 +1,13 @@
 ---
-title: Introduction
+title: Setup headscale on free-tier VPS - Introduction
 description: Article Template
 draft: false
-tags: []
+tags: 
 date: 2025-02-06 17:48
 ---
 ## Purpose
 
-For everyone who embark in the adventure of self-hosting, there is always the problematic of accessing our server at distance without exposing it publicly and open port on our router.
+For everyone who embark in the adventure of self-hosting, there is always the problematic of accessing our server at distance without exposing it publicly.
 To answer this problematic, we need a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). It exists a plenty of [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) solutions you can use for your self-hosting :
 - [OpenVPN](https://openvpn.net/)
 - [Wireguard](https://www.wireguard.com/)
